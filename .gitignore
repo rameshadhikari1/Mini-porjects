@@ -1,0 +1,15 @@
+relax_data_science_challenge.pdf
+takehome_user_engagement.csv
+takehome_users.csv
+ultimate_data_challenge.json
+ultimate_data_science_challenge.pdf
+logins.json
+Log_ROC_curve.pdf
+terms.png
+callibration.png			
+terms2.png
+critics.csv				
+vsm.png
+data/
+.*
+!/.gitignore
